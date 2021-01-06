@@ -96,6 +96,9 @@ nav .active {
 .first_face {
   padding-top: 5.3rem;
   padding-bottom: 4rem; }
+ .experiments img{
+    box-shadow: 3px 0px 20px #ddd;
+  }
   @media (min-width: 248px) and (max-width: 767px) {
     .first_face {
       padding-top: 3rem; } }
