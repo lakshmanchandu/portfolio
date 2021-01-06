@@ -35,11 +35,10 @@ body {
       outline: none !important; }
 
   .show {
-    width: 100%;
+      width: 100%;
     padding-top: 0.4rem !important;
-    border-bottom: 1px solid #00BCD4;
-    position: absolute;
-    background: #e6fcff;
+    border-bottom: 3px solid #f93044!important;
+    background: #f3f3f3;
     z-index: 999; }
 
   .gallery {
